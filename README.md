@@ -11,4 +11,6 @@ Name in the square bracket and the name of linked file in the round bracket (no 
 
 [Notes about tables](table.md) 
 
+[Awesome Protocol 1](Methods/Awesome_protocol1.md) 
+
 
