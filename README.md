@@ -1,12 +1,14 @@
 # LabnotebookFeb2019-
 Research Bazzar Feb 2019 
 
-# Header 
-## Second Header
-### Third Header 
+# Link some of the files here 
 
------------
-(type lots of minus signs - to add a line)
-___________________
-Another way is to type lots of underscore signs = 
+Name in the square bracket and the name of linked file in the round bracket (no space between brackets)
+
+[Notes about text stuff](text_stuff.md) 
+
+[Notes about lists and bullet points](lists_and_bullet.md) 
+
+[Notes about tables](table.md) 
+
 
